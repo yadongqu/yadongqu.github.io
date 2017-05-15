@@ -2,12 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yadongqu.github.io/post/hello-world/</loc>
+    <lastmod>2017-05-15T19:06:38+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yadongqu.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yadongqu.github.io/</loc>
+    <lastmod>2017-05-15T19:06:38+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yadongqu.github.io/post/</loc>
+    <lastmod>2017-05-15T19:06:38+02:00</lastmod>
     <priority>0</priority>
   </url>
   
